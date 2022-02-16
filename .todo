@@ -1,0 +1,38 @@
+application owner can't added to team
+application repository url
+application immutable template
+only can remove a admin team user if you is application owner
+deploy strategies, except for the first deploy
+lint colector
+rollback scope
+change version files coverage to don't pass as argument
+
+version status
+- waiting
+- validate coverage
+- validate lint
+- validate build
+
+id, createdAt and updatedAt
+
+OBJECTIVES:
+authenticate
+create a app
+clone repo
+push code
+create a version
+deploy a version
+proxy deployed app
+constant verify if a target is on
+
+user management
+available target per project, only administrator can attach
+
+access control from internal apis
+- access groups
+- allow other api to be a consumer from another api
+
+documentation
+- swagger integration with documentation publisher
+
+az repos show --organization https://dev.azure.com/QualicorpBr --project GIT -r mr-servico-pessoa-juridica

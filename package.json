@@ -1,0 +1,53 @@
+{
+  "name": "application-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/eslint-parser": "^7.16.3",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/debug": "^4.1.7",
+    "@types/express": "^4.17.13",
+    "@types/jest": "^27.0.3",
+    "@types/semver": "^7.3.9",
+    "@types/uuid": "^8.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.6.0",
+    "@typescript-eslint/parser": "^5.6.0",
+    "babel-jest": "^27.4.4",
+    "babel-plugin-root-import": "^6.6.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-formatter-json-standard": "^1.0.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-typescript-enum": "^2.1.0",
+    "jest": "^27.4.4",
+    "prisma": "^3.6.0",
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^3.12.0",
+    "typescript": "^4.5.3"
+  },
+  "scripts": {
+    "dev:server": "cross-env DEBUG=server* ts-node-dev -r tsconfig-paths/register src/apps/server/index.ts",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --collectCoverage",
+    "lint": "eslint src/ --ext .ts --ext .js",
+    "lint:fix": "eslint src/ --ext .ts --ext .js --fix",
+    "lint:json": "eslint src/ --ext ts --output-file .lint.run.json --format json-standard"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.6.0",
+    "debug": "^4.3.3",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "semver": "^7.3.5",
+    "uuid": "^8.3.2"
+  }
+}

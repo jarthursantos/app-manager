@@ -1,0 +1,887 @@
+{
+  "description": "ES Lint results",
+  "counts": {
+    "failure": 1,
+    "warning": 0,
+    "notice": 0
+  },
+  "byFile": {
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\Application.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\Application.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\InvalidApplicationNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\InvalidApplicationNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\InvalidApplicationOwnerError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\InvalidApplicationOwnerError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\MissingApplicationNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\MissingApplicationNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\MissingApplicationOwnerError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\application\\errors\\MissingApplicationOwnerError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\AuthenticationPlan.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\AuthenticationPlan.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanConsumerError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanConsumerError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanKeyError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanKeyError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanKeyFormatError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\InvalidAuthenticationPlanKeyFormatError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\MissingAuthenticationPlanConsumerError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\MissingAuthenticationPlanConsumerError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\MissingAuthenticationPlanKeyError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\authentication-plan\\errors\\MissingAuthenticationPlanKeyError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\Consumer.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\Consumer.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\InvalidConsumerDescriptionError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\InvalidConsumerDescriptionError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\InvalidConsumerNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\InvalidConsumerNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\MissingConsumerDescriptionError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\MissingConsumerDescriptionError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\MissingConsumerNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\consumer\\errors\\MissingConsumerNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\CoverageItem.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\CoverageItem.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemCoveredError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemCoveredError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemSkippedError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemSkippedError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemTotalError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\InvalidCoverageItemTotalError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemCoveredError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemCoveredError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemSkippedError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemSkippedError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemTotalError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage-item\\errors\\MissingCoverageItemTotalError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\Coverage.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\Coverage.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageBranchError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageBranchError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageFunctionError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageFunctionError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageLineError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageLineError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageStatementError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\coverage\\errors\\MissingCoverageStatementError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\Scope.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\Scope.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\DuplicateEnvironmentVariableInScopeError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\DuplicateEnvironmentVariableInScopeError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidEnvironmentVariableFormatInScopeError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidEnvironmentVariableFormatInScopeError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidScopeNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidScopeNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidScopeTargetError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\InvalidScopeTargetError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingEnvironmentVariableInScopeError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingEnvironmentVariableInScopeError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingScopeNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingScopeNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingScopeTargetError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\scope\\errors\\MissingScopeTargetError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\Target.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\Target.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetHostError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetHostError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetPortError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetPortError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetTypeError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\InvalidTargetTypeError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetHostError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetHostError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetNameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetNameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetPortError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetPortError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetTypeError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\target\\errors\\MissingTargetTypeError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\Team.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\Team.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\MissingPermissionInUserError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\MissingPermissionInUserError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\PermissionAlreadyAddedToUserError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\PermissionAlreadyAddedToUserError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\UserAlreadyOnTheTeamError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\UserAlreadyOnTheTeamError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\UserNotOnTheTeamError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\team\\errors\\UserNotOnTheTeamError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\User.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\User.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\errors\\InvalidUserUsernameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\errors\\InvalidUserUsernameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\errors\\MissingUserUsernameError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\user\\errors\\MissingUserUsernameError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\Version.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\Version.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionFilesCoverageError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionFilesCoverageError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionNumberError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionNumberError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionNumberFormatError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionNumberFormatError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionTotalCoverageError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\InvalidVersionTotalCoverageError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionFilesCoverageError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionFilesCoverageError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionNumberError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionNumberError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionTotalCoverageError.spec.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\domain\\entities\\version\\errors\\MissingVersionTotalCoverageError.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\interfaces\\error.ts": {
+      "counts": {
+        "failure": 0,
+        "warning": 0
+      },
+      "details": []
+    },
+    "C:\\GitHub\\octo\\application-manager\\src\\interfaces\\permission.ts": {
+      "counts": {
+        "failure": 1,
+        "warning": 0
+      },
+      "details": [
+        {
+          "message": "'a' is assigned a value but never used.",
+          "category": "failure",
+          "startLine": 5,
+          "endLine": 5,
+          "startColumn": 7,
+          "endColumn": 8
+        }
+      ]
+    }
+  }
+}
